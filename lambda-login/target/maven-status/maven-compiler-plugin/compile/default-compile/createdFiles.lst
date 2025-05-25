@@ -1,4 +1,8 @@
 org\example\controller\LoginController.class
 org\example\controller\PingController.class
-org\example\StreamLambdaHandler.class
 org\example\Application.class
+org\example\model\LoginRequest.class
+org\example\security\JwtUtil.class
+org\example\model\LoginResponse.class
+org\example\StreamLambdaHandler.class
+org\example\controller\UserController.class
